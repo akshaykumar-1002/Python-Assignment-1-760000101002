@@ -1,0 +1,6 @@
+# Q30. Calculate the sum of numerical values using sum()
+numbers = [10, 20, 30, 40, 50]
+total = sum(numbers)
+
+print("Numbers:", numbers)
+print("Sum =", total)
